@@ -1,0 +1,12 @@
+.icons {
+  height: 3rem;
+  width: 3rem;
+  cursor: pointer;
+  color: white;
+
+  transition: all 0.2s ease-in;
+
+  &:hover {
+    color: var(--color-primary-soft-red);
+  }
+}
